@@ -33,3 +33,6 @@ Ford
 Bill
 Pacifica
 ````
+
+## Side note
+I've found when running the code, once it gets to Stan it returns a lot more info then what is displayed on the site, enjoy ;)
